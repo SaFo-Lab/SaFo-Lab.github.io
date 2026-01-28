@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SaFoLab-JHU</title>
+    <description>SaFo Lab: Safe And secure Foundation mOdel systems Lab at Johns Hopkins University</description>
+    <link>https://safo-lab.github.io/</link>
+    <atom:link href="https://safo-lab.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
